@@ -57,4 +57,4 @@ async def play(ctx):
 
     await ctx.send("再生しました。")
 
-bot.run()
+bot.run(Njc0MTUxMDk3OTUwMDExMzkz.XjzQNA.v7tg7IWQ9orTIR18deXUMJEy4rE）
